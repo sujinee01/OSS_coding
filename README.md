@@ -8,4 +8,4 @@ My Class : OSSPrac
 
 My Name : Sujin Lee
 
-일자 : 2024. 3. 27
+Date : 27 Mar, 2024
