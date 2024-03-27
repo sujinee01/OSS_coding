@@ -6,5 +6,12 @@
 
 My Class : OSSPrac
 My Name : Sujin Lee
+<<<<<<< HEAD
 Date : 27 Mar, 2024
 Weather : clean
+=======
+
+일자 : 2024. 3. 27
+
+Weather : Clean
+>>>>>>> lsjrepo
